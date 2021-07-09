@@ -1,6 +1,6 @@
 print("Hello there, fellow investor!")
-idk1 = input("In which asset class will you be investing in today?\n")
-idk = input("No worries, I can help you with that.\n")
+idk = input("In which asset class will you be investing in today?\n")
+idk1 = input("No worries, I can help you with that.\n")
 question = input("Where are you feeling lucky today? stocks/crypto: \n")
 if question == "stocks":
     print("AAPL, AMD and TSLA are looking good today, try that!")
